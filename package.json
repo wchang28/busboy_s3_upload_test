@@ -1,0 +1,16 @@
+{
+  "name": "busboy_s3_upload_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.3.18",
+    "busboy": "^0.2.13",
+    "express": "^4.13.4",
+    "lodash": "^4.13.1"
+  }
+}
